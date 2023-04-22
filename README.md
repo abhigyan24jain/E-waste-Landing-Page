@@ -1,3 +1,3 @@
 # E-waste Landing Page
 
-Link : 
+Link : https://abhigyan24jain.github.io/E-waste_landing_page/
