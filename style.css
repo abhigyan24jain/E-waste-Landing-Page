@@ -147,6 +147,7 @@ header {
   text-transform: uppercase;
 }
 .inner-back-text p {
+  width: 1500px;
   color: var(--text-color);
   font-size: 1.5rem;
   margin-bottom: 15px;
@@ -187,7 +188,7 @@ header {
   margin: 0 100px 0 100px;
 }
 .about-text p {
-  font-size: 1rem;
+  font-size: 1.1rem;
   letter-spacing: 1px;
   text-align: justify;
   margin-bottom: 1.5rem;
@@ -323,8 +324,8 @@ header {
   color: var(--button-text-color);
 }
 .services img {
-  width: 280px;
-  height: 250px;
+  width: auto;
+  height: 300px;
   padding-bottom: 10px;
 }
 
